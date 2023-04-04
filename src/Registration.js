@@ -34,7 +34,7 @@ const Registration = () => {
                     </label>
                     <label>
                         USN:
-                        <input type="number" name="usn" />
+                        <input type="text" name="usn" />
                     </label>
                     <label>
                         Permanent Address:
